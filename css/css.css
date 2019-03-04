@@ -125,19 +125,19 @@ a:hover{text-decoration:none;}
 }
 
 .software_list .sw02{
-	background: url(../images/icon_1.gif)0 3px no-repeat;
+	background: url(../images/icon_2.gif) 0 3px no-repeat;
 }
 .software_list .sw03{
-	background: url(../images/icon_1.gif)0 3px no-repeat;
+	background: url(../images/icon_3.gif)0 3px no-repeat;
 }
 .software_list .sw04{
-	background: url(../images/icon_1.gif)0 3px no-repeat;
+	background: url(../images/icon_4.gif)0 3px no-repeat;
 }
 .software_list .sw05{
-	background: url(../images/icon_1.gif)0 3px no-repeat;
+	background: url(../images/icon_5.gif)0 3px no-repeat;
 }
 .software_list .sw06{
-	background: url(../images/icon_1.gif)0 3px no-repeat;
+	background: url(../images/icon_6.gif)0 3px no-repeat;
 }
 .news p{
 	margin: 0 ;
@@ -177,7 +177,24 @@ a:hover{text-decoration:none;}
     color:#477AA3 ;
     font-size: 14px;
 	padding-left:20px ;
-	background: url(../images/soft_r_1.gif) 0 2px no-repeat;
+}
+.recomment .list_01{
+	background: url(../images/soft_r_1.gif) no-repeat;
+}
+.recomment .list_02{
+	background: url(../images/soft_r_2.gif) no-repeat;
+}
+.recomment .list_03{
+	background: url(../images/soft_r_3.gif) no-repeat;
+}
+.recomment .list_04{
+	background: url(../images/soft_r_4.gif) no-repeat;
+}
+.recomment .list_05{
+	background: url(../images/soft_r_5.gif) no-repeat;
+}
+.recomment .list_06{
+	background: url(../images/soft_r_6.gif) no-repeat;
 }
 .recomment ul li span{
 	padding-left: 13px;
@@ -191,4 +208,11 @@ a:hover{text-decoration:none;}
 }
 table a{
 	color:#205F8F ;
+}
+table td{
+	padding-right: 5px;
+}
+.time{
+	margin-top:3px ;
+	color: #777777;
 }
