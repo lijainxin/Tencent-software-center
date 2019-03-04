@@ -63,3 +63,27 @@ a:hover{text-decoration:none;}
 	background: url(../images/home.gif) 0 -1px no-repeat;
 	color: black;
 	}
+
+.main{
+	height: 900px;
+	overflow: hidden;
+	border: 1px solid green;
+}
+.main .left{
+	float: left;
+	width:600px;
+	background: red;
+	height: 200px;
+	margin-right: 20px;
+	
+}
+.main .right{
+	float: right;
+	width: 288px;
+	background: yellow;
+	height: 200px;
+	
+}
+.left_banner{
+	text-align: center;
+}
